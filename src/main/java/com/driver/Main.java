@@ -9,9 +9,7 @@ public class Main {
         String str=objb.meth();
         System.out.println(str);
 
-        // calling class A overridden method from B
-        String str1=objb.meth();
-        System.out.println(str1);
+
 
 
     }
